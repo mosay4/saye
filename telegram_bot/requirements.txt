@@ -37,7 +37,7 @@ schedule==1.2.0
 APScheduler==3.10.4
 
 # Data Processing
-pandas==2.1.4
+pandas==2.1.1
 numpy==1.25.2
 
 # Caching (Optional)
